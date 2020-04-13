@@ -1,0 +1,7 @@
+**/.idea
+**/.ipynb_checkpoints
+**/__pycache__
+**/.DS_Store
+dataset
+fixtures
+hw4/experiments
